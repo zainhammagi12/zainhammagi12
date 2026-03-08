@@ -1,4 +1,4 @@
-# Hi, I'm Zain Hammagi 👋
+# Hi, I'm Zain Hammagi 
 
 **Data Scientist · Data Analyst · Data Engineer**  
 📍 Glasgow, UK — Open to hybrid roles across the UK including London  
