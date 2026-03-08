@@ -1,4 +1,4 @@
-# Hi, I'm Zain Hammagi 
+# Hi, I'm Zain Hammagi 👋
 
 **Data Scientist · Data Analyst · Data Engineer**  
 📍 Glasgow, UK — Open to hybrid roles across the UK including London  
@@ -8,9 +8,9 @@
 
 ## About Me
 
-I build things with data. My work spans machine learning pipelines, analytics dashboards, ETL engineering, and data quality frameworks — always with an eye on producing outputs that people can trust and act on.
+I build things with data. My work spans machine learning pipelines, Power BI analytics dashboards, ETL engineering, and data quality frameworks — always with an eye on producing outputs that people can trust and act on.
 
-I hold an **MSc with Distinction** in Data Science from Strathclyde, where my dissertation applied deep learning (U-Net and EfficientNet) to satellite image segmentation for terrain detection. In industry I have used Python and SQL to validate KPI datasets, build ETL pipelines into Snowflake, and deliver stakeholder-ready insights in Power BI and Tableau.
+I hold an **MSc with Distinction** in Data Science from Strathclyde, where my dissertation applied deep learning (U-Net and EfficientNet) to satellite image segmentation for terrain detection. In industry I have used Python and SQL to validate KPI datasets, build ETL pipelines into Snowflake, and deliver stakeholder-ready insights in Power BI. Most recently I built a 10-page churn analytics dashboard on real telecom data — uncovering a 71.19% churn rate in the highest-risk customer segment and $1.37M revenue at risk.
 
 ---
 
@@ -31,12 +31,12 @@ I hold an **MSc with Distinction** in Data Science from Strathclyde, where my di
 
 | Project | Description | Stack |
 |---|---|---|
+| [Customer Churn Analytics Dashboard](https://github.com/zainhammagi12/Customer-Churn-Analytics-Dashboard) | 10-page Power BI dashboard — 26.86% churn rate, 6,687 customers, DAX measures, Power Query | Power BI, DAX, Power Query |
 | [Terrain Detection via Satellite Imagery](https://github.com/zainhammagi12/Terrain-Detection-using-Satellite-Data-for-Autonomous-Vehicle) | MSc dissertation — deep learning segmentation pipeline for terrain classification | Python, U-Net, EfficientNet, IoU/Dice |
 | [End-to-End ML Pipeline](https://github.com/zainhammagi12/End-to-End-Machine-Learning-Pipeline) | Full ML workflow from EDA to model deployment via Streamlit | Python, scikit-learn, Streamlit |
 | [Goodreads NLP Book Rating](https://github.com/zainhammagi12/Goodreads-NLP-Book-Rating) | NLP pipeline predicting book ratings from text reviews | Python, TF-IDF, NLP |
 | [Emotion Detection System](https://github.com/zainhammagi12/Emotion-Detection-System) | Computer vision model for real-time emotion classification | Python, Deep Learning, OpenCV |
 | [Healthcare Insurance Prediction](https://github.com/zainhammagi12/Healthcare-Insurance-Prediction) | ML model predicting healthcare insurance charges | Python, scikit-learn, pandas |
-| [Retail Analysis](https://github.com/zainhammagi12/Retail_Analysis) | Sales trend analysis and customer segmentation for retail data | Python, SQL, pandas |
 
 ---
 
