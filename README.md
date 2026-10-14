@@ -1,7 +1,7 @@
 # Hi, I'm Zain Hammagi 👋
 **Data Analyst | Power BI Developer | Analytics Engineer**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-zainhammagi.github.io-007acc?style=flat-square&logo=google-chrome&logoColor=white)]([https://zainhammagi.github.io/](https://zainhammagi12.github.io/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-zainhammagi.github.io-007acc?style=flat-square&logo=google-chrome&logoColor=white)] (https://zainhammagi12.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zain_Hammagi-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-hammagi1)
 [![Email](https://img.shields.io/badge/Email-mo.zainhammagi%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mo.zainhammagi@gmail.com)
 
@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 🎓 **MSc in Advanced Computer Science (Distinction)** from the University of Strathclyde.
-- 💼 Former **Operations Data Expert** at Teleperformance UK, specializing in production Power BI reporting, scalable SQL pipelines, and automated quality controls.
+- 💼 Former **Operations Data Expert** at Teleperformance UK, specialising in production Power BI reporting, scalable SQL pipelines, and automated quality controls.
 - 📊 Experienced across the full data lifecycle: Relational Data Modeling (Star Schema), DAX, ETL/ELT pipelines, and Cloud Analytics (Azure & AWS).
 
 ---
